@@ -48,5 +48,6 @@ else:
     print('Your code working absolutely fine.')
 
 
-# When try block is executed,the input entered seems to not valid then it goes to except block,
+# When try block is executed,the input entered by user,seems to be not valid then it goes to except block,
 # matches one of two exceptions and prints the terminal with except message.
+
