@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "keyboard.dispatch": "keyCode",
+    "python.linting.pydocstyleEnabled": true
+
+}
