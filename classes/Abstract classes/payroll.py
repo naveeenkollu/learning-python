@@ -3,7 +3,7 @@ class Payroll:
     def __init__(self, employee_name = []):
         self.employee_name = employee_name
 
-    def add_name(self, employee):
+    def add(self, employee):
         self.employee_name.append(employee)
 
     def print(self):
